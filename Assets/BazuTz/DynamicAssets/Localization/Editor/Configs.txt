@@ -1,0 +1,8 @@
+{
+    "GooleTableId": "302840838",
+    "GoogleSheetId": "1EJxmk3Q3r3Q6gU5UcFWRH4uX4ZRqa-YC",
+    "TsvFileFullPath": "Assets/DynamicAssets/Localization/Sheets/DownloadedSheet.tsv",
+    "LanguageIconsPath": "Assets/DynamicAssets/Localization/Icons",
+    "LanguageSheetsPath": "Assets/Resources/Localization/Sheets",
+    "LocalizationAssetPath": "Assets/Resources/Localization"
+}
